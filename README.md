@@ -34,7 +34,7 @@ grok3 官网中文入口：[https://chat.gptcat.net/](https://chat.gptcat.net/)
 ## 国内如何访问grok3？
 
 ###  1. 直接访问官网
-Grok3 的官方网站为 **[https://grok3.ai](https://grok3.ai)**。  
+Grok3 的官方网站为 **[https://grok.com/](https://grok.com/)**。  
 由于网络限制，国内用户可能需要使用 **VPN 或代理** 才能顺利访问。
 
 ###  2. 使用镜像站点
