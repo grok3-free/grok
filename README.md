@@ -4,7 +4,7 @@
 
 那么马斯克所说的grok3模型到底是什么？有多厉害呢？本文都会一一揭晓！ 
 
-grok3 官网中文入口：[https://chat.gptcat.net/](https://chat.gptcat.net/)
+grok3 官网中文入口：[https://chat.gptcat.cc/](https://chat.gptcat.cc/)
 
 ---
 
@@ -40,14 +40,14 @@ Grok3 的官方网站为 **[https://grok.com/](https://grok.com/)**。
 ###  2. 使用镜像站点
 部分第三方平台提供了 **Grok3 镜像站点**，可以通过这些站点访问部分功能。 
 
-镜像站点推荐：[https://chat.gptcat.net/](https://chat.gptcat.net/)
+镜像站点推荐：[https://chat.gptcat.cc/](https://chat.gptcat.cc/)
 
 ---
 
 ## 推荐：Grok3 中文版（无需翻墙）
 
 ### **Grok3 中文版推荐平台**
-我们推荐 **[GPTCat](https://gptcat.net)**，这是一个支持 **Grok3 中文版** 的优质平台。  
+我们推荐 **[GPTCat](https://gptcat.cc)**，这是一个支持 **Grok3 中文版** 的优质平台。  
 该平台不仅接入了 **Grok3**，还支持多个主流 AI 模型，如：
 - **GPT-4 / GPT-3.5**
 - **Claude 系列**
@@ -60,7 +60,7 @@ Grok3 的官方网站为 **[https://grok.com/](https://grok.com/)**。
  **稳定访问**：无需翻墙，国内网络可直接访问。
 
 ###  **如何使用？**
-1. 访问 **[GPTCat](https://gptcat.net)**。
+1. 访问 **[GPTCat](https://gptcat.cc)**。
 2. **注册并登录** 账号（支持国内邮箱）。
 3. **选择 Grok3 模型**，开始 AI 体验！
 
